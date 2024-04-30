@@ -3,21 +3,17 @@
 Notebooks and scripts to test draft strategies for automatic trading.
 Dataset used: QQQ
 
-## Operations output examples
-
-![Alt text](img/operations.png?raw=true)
-
 <br>
 
 ## Plot the open and close signals
 
-![Alt text](img/index.png?raw=true)
+![Alt text](img/open.png?raw=true)
 
 <br>
 
 ## Plot the equity of this strategy
 
-![Alt text](img/index1.png?raw=true)
+![Alt text](img/figure.png?raw=true)
 
 <br>
 
