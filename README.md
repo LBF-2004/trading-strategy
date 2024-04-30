@@ -1,7 +1,7 @@
 # Trading Strategy Explorer
 
 Notebooks and scripts to test draft strategies for automatic trading.
-Dataset available EOS / BTC 2020-2021 
+Dataset used: QQQ
 
 ## Operations output examples
 
@@ -18,15 +18,6 @@ Dataset available EOS / BTC 2020-2021
 ## Plot the equity of this strategy
 
 ![Alt text](img/index1.png?raw=true)
-
-
-### How to run 
-1) Run Jupyter Notebook in the shell
-```jupyter-notebook```
-OR 
-``` jupyter-lab```
-2) Run the hole notebook
-3) Modify the strategy parameters 
 
 <br>
 
